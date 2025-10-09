@@ -18,6 +18,11 @@ AIニケちゃんの公式アセット（VRMモデル、ロゴ等）と二次創
 - `derivative_creation_guideline.md` - 二次創作ガイドライン
 - `ai_generation_guideline.md` - AI生成ガイドライン
 
+### ボイス (`/voice/`)
+- `sample.wav` - サンプルボイス
+- `ohirome_music_video.mp4` - お披露目MV
+- `/scripts/` - 学習ボイス用収録台本
+
 ## 📜 ライセンス・利用条件
 
 - **一部を除き、非営利利用限定**
