@@ -34,7 +34,7 @@ AIニケちゃん ボイスアセット個別提供通知
 - ガイドラインURL: https://github.com/tegnike/nikechan-assets/blob/main/voice/VOICE_ASSET_GUIDELINE.md
 
 ■ 個別条件・例外
-- 
+- （必要な条件を記載。ない場合は「該当なし」）
 
 ■ 禁止事項
 - 提供したアセットの原本・複製・改変版の再配布、販売、譲渡、貸与
