@@ -6,6 +6,7 @@
 
 - [二次創作ガイドライン](../guidelines/derivative_creation_guideline.md)
 - [AI生成ガイドライン](../guidelines/ai_generation_guideline.md)
+- [公式サイトの詳細版ガイドライン（一般条件の正本）](https://nikechan.com/guidelines/derivative)
 
 ## ファイル一覧
 
@@ -46,7 +47,7 @@ VRMからレンダリングした画像・動画や、利用者が新規に制�
 
 VRMファイル内に埋め込まれているライセンス・利用条件に関するメタデータは、過去の設定であり適用されません。内容は無視してください。
 
-このVRMモデルの利用には、このREADMEとリポジトリ内の現行ガイドラインに記載された条件を適用します。
+このVRMモデルの利用には、公式サイトの詳細版ガイドラインと、このREADMEに記載されたアセット固有の条件を適用します。
 
 ## 表記例
 
@@ -61,4 +62,4 @@ VRMファイル内に埋め込まれているライセンス・利用条件に�
 ## 問い合わせ
 
 - 作者X: [@tegnike](https://x.com/tegnike)
-- Discord: [AIニケちゃん公式Discord](https://discord.com/invite/G4E5Sf3yj3)
+- Discord DM: [AIニケちゃん公式Discord](https://discord.com/invite/G4E5Sf3yj3)内で作者へDM

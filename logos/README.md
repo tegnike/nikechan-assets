@@ -6,6 +6,7 @@
 
 - [二次創作ガイドライン](../guidelines/derivative_creation_guideline.md)
 - [AI生成ガイドライン](../guidelines/ai_generation_guideline.md)
+- [公式サイトの詳細版ガイドライン（一般条件の正本）](https://nikechan.com/guidelines/derivative)
 
 ## ファイル一覧
 
@@ -46,4 +47,4 @@
 ## 問い合わせ
 
 - 作者X: [@tegnike](https://x.com/tegnike)
-- Discord: [AIニケちゃん公式Discord](https://discord.com/invite/G4E5Sf3yj3)
+- Discord DM: [AIニケちゃん公式Discord](https://discord.com/invite/G4E5Sf3yj3)内で作者へDM

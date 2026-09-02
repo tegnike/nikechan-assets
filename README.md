@@ -4,6 +4,8 @@ AIニケちゃんの公式アセット（VRMモデル、ロゴ等）と二次創
 
 このリポジトリの素材は、MIT LicenseやCreative Commonsなどの汎用ライセンスではなく、AIニケちゃん独自の利用条件で提供しています。利用前に、使用する素材のフォルダにあるREADMEと、以下のガイドラインを必ずご確認ください。
 
+- [公式サイトの詳細版ガイドライン（一般条件の正本）](https://nikechan.com/guidelines/derivative)
+- [公式サイトの生成AIガイドライン（一般条件の正本）](https://nikechan.com/guidelines/ai)
 - [二次創作ガイドライン](guidelines/derivative_creation_guideline.md)
 - [AI生成ガイドライン](guidelines/ai_generation_guideline.md)
 
@@ -35,18 +37,18 @@ AIニケちゃんの公式アセット（VRMモデル、ロゴ等）と二次創
 - SNS・動画配信では一部収益機能の利用可能（条件あり）
 - 法人利用は不可、同人サークル名義は可
 - 配布物には「AIニケちゃんの非公式ファンメイド作品」である旨の表記が必要
-- 生成AIに入力・参照できる公式素材は、`/vrms/` のVRMモデル3種と `/logos/` のロゴ画像のみ
-- `/voice/` 内の公開ファイルは利用不可。ボイスアセットの利用希望者は作者XへDMで申請
-- 個別提供されたボイスアセットには、[専用ガイドライン](voice/VOICE_ASSET_GUIDELINE.md)と提供時の個別通知を適用
+- 生成AIに入力・参照できる公式素材は、`/vrms/` のVRMモデル3種、`/logos/` のロゴ画像、公式サイトの各キャラクターページで公開している三面図・設定画、および個別提供時に許可されたボイスアセット
+- `/voice/` 内の公開ファイルは利用不可。ボイスアセットの利用希望者は作者へX DMまたはDiscord DMで申請
+- 個別提供されたボイスアセットには、[専用ガイドライン](voice/VOICE_ASSET_GUIDELINE.md)を基本条件として適用し、案件固有の条件・例外は提供時の個別通知で定める
 - 公式アセットの原本および改変版の再配布は禁止
 - 利用者が新規に制作した二次創作素材は、無料・同一条件で配布可能
-- VRMファイル内のライセンス・利用条件メタデータは適用せず、このリポジトリの現行ガイドラインを優先
+- VRMファイル内のライセンス・利用条件メタデータは適用せず、公式サイトの詳細版ガイドラインと各アセットの現行案内を優先
 - 詳細と例外は各ガイドラインをご確認ください
 
 ## 📞 連絡先
 
 - 作者X: [@tegnike](https://x.com/tegnike)
-- Discord: [AIニケちゃん公式Discord](https://discord.com/invite/G4E5Sf3yj3)
+- Discord DM: [AIニケちゃん公式Discord](https://discord.com/invite/G4E5Sf3yj3)内で作者へDM
 
 ## ⚠️ 重要事項
 
