@@ -21,6 +21,9 @@ AIニケちゃんの公式アセット（VRMモデル、ロゴ等）と二次創
 - `logo_with_frame.png` - フレーム付きロゴ
 - `logo_with_frame_and_shadow.png` - フレーム・シャドウ付きロゴ
 
+### [キャラクター設定画 (`/characters/`)](characters/README.md)
+- `trihedral_figures/ainikechan.png` - AIニケちゃん最新版三面図・顔・耳の設定画
+
 ### [ガイドライン (`/guidelines/`)](guidelines/README.md)
 - `derivative_creation_guideline.md` - 二次創作ガイドライン
 - `ai_generation_guideline.md` - AI生成ガイドライン
