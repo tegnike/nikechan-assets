@@ -1,2 +1,2 @@
 
-/vrms/Nikechang_Revision_v8.blend filter=lfs diff=lfs merge=lfs -text
+/vrms/*.blend filter=lfs diff=lfs merge=lfs -text
