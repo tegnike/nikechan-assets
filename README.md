@@ -11,11 +11,13 @@ AIニケちゃんの公式アセット（VRMモデル、ロゴ等）と二次創
 
 ## 📁 構成
 
-### [VRMモデル (`/vrms/`)](vrms/README.md)
+### [VRMモデル・Blenderデータ (`/vrms/`)](vrms/README.md)
 - `nikechan_v1.vrm` - 初期バージョン
 - `nikechan_v2.vrm` - 改良版
 - `nikechan_v2_outerwear.vrm` - アウター着用版
 - `Nikechang_Revision_v8.blend` - 初期のBlender原本（V8）。現在配布中の最新版VRMとは別の制作時点のデータです。
+
+Blenderデータ（`.blend`）の利用条件は、[VRM・BlenderデータのREADME](vrms/README.md)を参照してください。
 
 ### [ロゴ (`/logos/`)](logos/README.md)
 - `logo_no_frame.png` - フレームなしロゴ
