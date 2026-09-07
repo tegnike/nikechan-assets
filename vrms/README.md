@@ -13,6 +13,13 @@
 - `nikechan_v1.vrm` - 初期バージョン
 - `nikechan_v2.vrm` - 改良版
 - `nikechan_v2_outerwear.vrm` - アウター着用版
+- `Nikechang_Revision_v8.blend` - 初期のBlender原本（V8）。現在配布中の最新版VRMとは別の制作時点のデータです。
+
+## Blender原本について
+
+`Nikechang_Revision_v8.blend` は最初のV8原本を変更せず保存したものです（101,923,643 bytes）。Git LFSで管理しているため、Gitで取得する場合はGit LFSを導入して `git lfs pull` を実行してください。
+
+SHA-256: `606d6f2597fe36d2da5dbaba9169f871428d7244fd1e2155453009621d48aa0f`
 
 ## 利用条件の要点
 
