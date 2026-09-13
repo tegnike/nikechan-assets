@@ -42,3 +42,7 @@ VRMモデルとBlenderデータ（`.blend`）の編集・レンダリング・�
 
 - 作者X: [@tegnike](https://x.com/tegnike)
 - Discord DM: [AIニケちゃん公式Discord](https://discord.com/invite/G4E5Sf3yj3)内で作者へDM
+
+## Live2Dの追加条件
+
+[Live2D専用README](../live2d/README.md)では、配布元から引き継ぐ商用利用・改変・再配布の禁止と、画像生成・AI取り込みの禁止を明記しています。モデル本体だけでなく、テクスチャ・抽出素材・表示画像・動画・スクリーンショットもAIへの入力・参照・学習・変換に利用できません。一般条件によってこの制限が緩和されることはありません。
