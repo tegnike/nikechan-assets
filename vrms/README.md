@@ -15,11 +15,11 @@
 - `nikechan_v1.vrm` - 初期バージョン
 - `nikechan_v2.vrm` - 改良版
 - `nikechan_v2_outerwear.vrm` - アウター着用版
-- `ニケちゃん.blend` - 採用済み最新版V37顔修正版のBlender原本。上着あり・なしの両モデルを編集できます。
+- `ニケちゃん.blend` - 採用済み最新版V218（肩・肘修正版）のBlender原本。上着あり・なしの両モデルを編集できます。
 
 ## Blender原本について
 
-`ニケちゃん.blend` は、現在配布中のVRMに対応する採用済み最新版V37顔修正版（v37_Face）の原本です（154,003,328 bytes）。原本の内容は変更せず、配布用のファイル名に統一しています。Git LFSで管理しているため、Gitで取得する場合はGit LFSを導入して `git lfs pull` を実行してください。
+`ニケちゃん.blend` は、現在配布中のVRMに対応する採用済み最新版V218 肩・肘修正版（v218_ElbowCrease）の原本です（154,162,857 bytes）。原本の内容は変更せず、配布用のファイル名に統一しています。Git LFSで管理しているため、Gitで取得する場合はGit LFSを導入して `git lfs pull` を実行してください。
 
 SHA-256: `e6638c362f3ef463d5ea74bd85f88bb255067b464310e3ee982cfcdcb87228e1`
 
