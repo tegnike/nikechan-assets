@@ -15,7 +15,7 @@ AIニケちゃんの公式アセット（VRMモデル、Live2Dモデル、ロゴ
 - `nikechan_v1.vrm` - 初期バージョン
 - `nikechan_v2.vrm` - 改良版
 - `nikechan_v2_outerwear.vrm` - アウター着用版
-- `ニケちゃん.blend` - 採用済み最新版V218（肩・肘修正版）のBlender原本。上着あり・なしの両モデルを編集でき、N → Nikechan → Export 4 VRMs で通常版・軽量版×上着あり・なしの4本を出力できます。
+- `ニケちゃん.blend` - 採用済み最新版V225（指の修正版）のBlender原本。上着あり・なしの両モデルを編集でき、N → Nikechan → Export 4 VRMs で通常版・軽量版×上着あり・なしの4本を出力できます。
 
 Blenderデータ（`.blend`）の利用条件は、[VRM・BlenderデータのREADME](vrms/README.md)を参照してください。
 
